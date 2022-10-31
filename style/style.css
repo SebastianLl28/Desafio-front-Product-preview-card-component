@@ -23,7 +23,7 @@
 }
 
 .card{
-    height: 25rem;
+    height: 30rem;
     width: 35rem;
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.123);
@@ -46,7 +46,7 @@
 .card__description{
     height: 100%;
     font-family: 'Montserrat', sans-serif;
-    color: var(--Dark_grayish_blue);
+    background-color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
